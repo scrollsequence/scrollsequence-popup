@@ -5,11 +5,11 @@
  */
 /*
 Plugin Name: Scrollsequence Popup
-Plugin URI: http://wordpress.org/plugins/hello-dolly/
+Plugin URI: https://scrollsequence.com
 Description: This is a popup plugin that works with Scrollsequence and it hooks into Scrollsequence ssqPreloadPercentage JavaScript hook. The popup dissapears if one of two condition are met. Either the video ends, or after the ssqPreloadPercentage fires. 
 Author: Ales Kozelsky
 Version: 1.0.2
-Author URI: http://scrollsequence.com
+Author URI: https://scrollsequence.com
 */
 
 
