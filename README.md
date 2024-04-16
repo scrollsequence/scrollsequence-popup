@@ -2,7 +2,7 @@
 
 The **Scrollsequence Popup Preloader** is a lightweight preloader popup for [Scrollsequence WordPress Plugin](https://scrollsequence.com) that synchronizes with the loading state of Scrollsequence. It automatically closes once the preload event fires. Use this preloader to enhance user experience while your content loads.
 
-## Installation
+## Installation and Usage
 
 1. **Clone the Repository:**
 
