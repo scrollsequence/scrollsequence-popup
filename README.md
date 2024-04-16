@@ -1,6 +1,6 @@
 # Scrollsequence Popup Preloader
 
-The **Scrollsequence Popup Preloader** is a lightweight preloader popup for (Scrollsequence WordPress Plugin)[https://scrollsequence.com] that synchronizes with the loading state of Scrollsequence. It automatically closes once the preload event fires. Use this preloader to enhance user experience while your content loads.
+The **Scrollsequence Popup Preloader** is a lightweight preloader popup for [Scrollsequence WordPress Plugin](https://scrollsequence.com) that synchronizes with the loading state of Scrollsequence. It automatically closes once the preload event fires. Use this preloader to enhance user experience while your content loads.
 
 ## Installation
 
@@ -33,9 +33,9 @@ ssq-popup-script.js - javascript that listens for *ssqPreloadPercentage* event t
 
 
 ## Useful Links
-### Homepage: (Scrollsequence)[https://scrollsequence.com]
-### Documentation: (Scrollsequence Documentation)[https://scrollsequence.com/documentation]
-### Knowledge Base: (Scrollsequence Knowledge Base)[https://help.scrollsequence.com]
+### Homepage: [Scrollsequence](https://scrollsequence.com)
+### Documentation: [Scrollsequence Documentation](https://scrollsequence.com/documentation)
+### Knowledge Base: [Scrollsequence Knowledge Base](https://help.scrollsequence.com)
 
 ## License
 This project is open source and distributed under the MIT license. See the LICENSE file for details.
